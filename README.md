@@ -1,2 +1,2 @@
-# IC-Scholar-Symposium-2016
-This is the website for IC Scholar Symposium 2016
+# IC-Scholar-Symposium-2017
+This is the website for IC Scholar Symposium 2017
